@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name": "Sonnenblumenbrot", 
+        "imgSrc": "1.jpg", 
+        "price": 4.49
+    },
+
+    {
+        "id": 2,
+        "name": "Schärdinger Butter", 
+        "imgSrc": "2.jpg", 
+        "price": 2.39
+    },
+
+    {
+        "id": 3,
+        "name": "Schärdinger Gouda", 
+        "imgSrc": "3.jpg", 
+        "price": 1.55
+    },
+
+    {
+        "id": 4,
+        "name": "Hofstädter Kantwurst", 
+        "imgSrc": "4.jpg", 
+        "price": 2.29
+    },
+
+    {
+        "id": 5,
+        "name": "Fanta", 
+        "imgSrc": "5.jpg", 
+        "price": 1.85
+    }, 
+
+    {
+        "id": 6,
+        "name": "Kelly Chips", 
+        "imgSrc": "6.jpg", 
+        "price": 1.99
+    },
+
+    {
+        "id": 7,
+        "name": "Eskimo Twinni", 
+        "imgSrc": "7.jpg", "price": 5.69
+    },
+
+    {
+        "id": 8,
+        "name": "Eskimo Vanille", 
+        "imgSrc": "8.jpg", 
+        "price": 4.69
+    },
+
+    {
+        "id": 9,
+        "name": "Leibniz Butterkeks", 
+        "imgSrc": "9.jpg", 
+        "price": 2.49
+    },
+
+    {
+        "id": 10,
+        "name": "Rauch Eistee", 
+        "imgSrc": "10.jpg", 
+        "price": 1.69
+    },
+
+    {
+        "id": 11,
+        "name": "Elmex Zahncreme", 
+        "imgSrc": "11.jpg", 
+        "price": 3.49
+    },
+
+    {
+        "id": 12,
+        "name": "Dr. Oetker Ristorante", 
+        "imgSrc": "12.jpg", 
+        "price": 3.19
+    }
+
+]

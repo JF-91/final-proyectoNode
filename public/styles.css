@@ -1,0 +1,44 @@
+
+.CONTAINER-MAIN{
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: max-content max-content;
+    grid-gap: 50px;
+    background-color: beige;
+
+
+}
+
+.grid-products {
+    display: grid;
+    grid-gap: 1rem;
+    align-content: flex-start;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: 150px 150px 150px 150px;
+  }
+
+  .box {
+      display: flex;
+      border: solid;
+      flex-direction: column;
+      
+  }
+  
+
+
+  .gray{
+      background-color: gray;
+  }
+
+
+  .oragange{
+      background-color: orange;
+      
+  }
+
+  img {
+    max-width: 90px;
+    max-height: 90px;
+   }
+
+  
